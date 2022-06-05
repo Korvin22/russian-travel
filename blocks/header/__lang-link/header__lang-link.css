@@ -7,3 +7,10 @@
     line-height: 1.17;
     list-style: none;
 }
+
+@media screen and (max-width:568px) {
+  .header__lang-link{
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}

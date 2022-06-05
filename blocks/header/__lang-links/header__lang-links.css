@@ -2,4 +2,7 @@
     color: #FFFFFF;
     list-style: none;
     display:inline;
+    margin:0;
+    align-self: flex-end;
+    justify-self:flex-end;
 }

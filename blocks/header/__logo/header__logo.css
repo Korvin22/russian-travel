@@ -3,4 +3,18 @@
     color: #FFFFFF;
     height: 52px;
     width: 176px;
+
+}
+
+@media screen and (max-width: 568px) {
+    .header__logo{
+        background-image:url(/images/header-logo.svg);
+        height: 42px;
+        width: 142px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: left top;
+        
+
+    }
 }
