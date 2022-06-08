@@ -6,4 +6,5 @@
 
 .header__lang-item:nth-of-type(1) {
     padding-right:18px;
+    text-decoration: underline;
 }
