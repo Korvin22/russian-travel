@@ -8,9 +8,6 @@
     box-sizing: border-box;
   }
 
-@media screen and (max-width: 568px) {
-    .places__image {
-        padding:0;
-    }
-}
+
+
 

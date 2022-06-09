@@ -9,10 +9,9 @@
 }
 
 @media screen and (max-width:568px) {
-    .lead__title{
+    .lead__subtitle{
         font-size: 16px;
         line-height: 20px;
-        padding:16px 16px 64px 16px;
-        max-width: 256px;
+        padding:16px 16px 40px 16px;
     }
 }
