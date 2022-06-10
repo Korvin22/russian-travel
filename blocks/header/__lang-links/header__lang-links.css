@@ -1,8 +1,9 @@
 .header__lang-links{
     color: #FFFFFF;
     list-style: none;
-    display:inline;
+    display:flex;
     margin:0;
     align-self: flex-end;
     justify-self:flex-end;
+    padding-left:0;
 }
