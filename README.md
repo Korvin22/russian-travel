@@ -7,4 +7,4 @@
 * сделать форму обратной связи
 
 ### Ссылка на GitPages
-https://korvin22.github.io/russian-travel/
+https://korvin22.github.io/russian-travel/index.html
