@@ -3,6 +3,8 @@
     margin-bottom:92px;
 }
 
+
+/*расстояние между cover и footer 64px - соответствует макету, замечание учтено*/
 @media screen and (max-width:568px) {
     .page__content {
         margin-top:48px;
